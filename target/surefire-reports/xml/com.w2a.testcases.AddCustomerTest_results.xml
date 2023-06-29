@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="= Customer LoginTest"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="2"
+           time="14.096">
+  <properties />
+  
+            <testcase name="addCustomerTest" time="0.0" classname="com.w2a.testcases.AddCustomerTest">
+          <skipped />
+    </testcase>
+            <testcase name="addCustomerTest" time="0.0" classname="com.w2a.testcases.AddCustomerTest">
+          <skipped />
+    </testcase>
+  
+            <testcase name="addCustomerTest" time="6.827" classname="com.w2a.testcases.AddCustomerTest" />
+                <testcase name="addCustomerTest" time="7.260" classname="com.w2a.testcases.AddCustomerTest" />
+      
+</testsuite>
