@@ -45,6 +45,7 @@ public class AddCustomerTest extends TestBase {
 		Assert.assertTrue(alert.getText().contains(data.get("AlertText")));
 		alert.accept();
 		Thread.sleep(3000);
+		System.out.println("GIT TESTING");
 	}
 		
 //	@DataProvider
